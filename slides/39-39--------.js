@@ -10,7 +10,7 @@
     <div style="font-family: var(--font-mono); font-size: 24px; letter-spacing: 0.22em; opacity: 0.55;">— תודה —</div>
 
     <div>
-      <p style="font-family: var(--font-display); font-weight: 900; font-size: 112px; line-height: 0.92; margin: 0 0 64px; color: var(--c-ink);">
+      <p style="font-family: var(--font-display); font-weight: 900; font-size: 112px; line-height: 0.92; margin: 0 0 48px; color: var(--c-ink);">
         גזלטו אותי<br>בפרטי.
       </p>
       <div style="display: flex; flex-direction: column; gap: 20px; font-family: var(--font-mono); font-size: 32px;">
@@ -21,6 +21,15 @@
         <div style="display: flex; gap: 24px; align-items: baseline;">
           <span style="opacity: 0.65; font-size: 38px; letter-spacing: 0.08em; flex-shrink: 0; font-family: var(--font-display); font-weight: 800;">אתר:</span>
           <span style="font-weight: 700;">www.danzarpsy.com</span>
+        </div>
+      </div>
+      <div style="display: flex; align-items: center; gap: 40px; margin-top: 48px;">
+        <div style="width: 250px; height: 250px; flex-shrink: 0; background: var(--c-paper); border: 4px solid var(--c-ink); box-shadow: 10px 10px 0 var(--c-ink); padding: 18px; box-sizing: border-box;">
+          <img src="assets/ig-qr.svg" alt="QR לאינסטגרם" style="width: 100%; height: 100%; display: block;">
+        </div>
+        <div style="display: flex; flex-direction: column; gap: 10px;">
+          <span style="font-family: var(--font-display); font-weight: 800; font-size: 38px; opacity: 0.65;">אינסטגרם:</span>
+          <span dir="ltr" style="font-family: var(--font-mono); font-weight: 700; font-size: 52px; line-height: 1; color: var(--c-ink); text-align: right;">@psychology_of_stuff</span>
         </div>
       </div>
     </div>
